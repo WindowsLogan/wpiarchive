@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/WPInternals-Archive-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/windows-205-848724.png" width="120" />
 </p>
 
 <h1 align="center">WPInternals Archive</h1>
 
 <p align="center">
-  Metro UI–styled archive for hosting preserved versions of WPInternals.
+  Metro UI–styled archive for preserved WPInternals releases
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/WindowsLogan/WPInternalsDownloads.github.io?color=0078D7" />
-  <img src="https://img.shields.io/github/repo-size/WindowsLogan/WPInternalsDownloads.github.io?color=00BCF2" />
-  <img src="https://img.shields.io/github/last-commit/WindowsLogan/WPInternalsDownloads.github.io?color=008272" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20Phone-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-Metro%20UI-00BCF2?style=for-the-badge" />
 </p>
 
 ---
 
-## About
+## 🔵 About This Project
+
+**WPInternals Archive** is a Windows Phone–styled static website designed to preserve and host multiple historical and preview versions of WPInternals.
 
 This repository hosts a **Windows Phone–styled (Metro UI)** static website for archiving multiple versions of WPInternals.
 
