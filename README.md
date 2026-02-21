@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20Phone-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-Metro%20UI-00BCF2?style=for-the-badge" />
+
 </p>
 
 ---
