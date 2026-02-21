@@ -22,11 +22,6 @@ This repository hosts a **Windows Phone–styled (Metro UI)** static website for
 
 The goal of this project is to preserve older and preview releases in a clean, accessible, and platform-faithful format.
 
-The website is designed to resemble the classic Windows Phone 8 aesthetic:
-- Segoe UI typography  
-- Flat tile interface  
-- Windows accent colours  
-- Minimal, clean layout  
 
 ---
 
