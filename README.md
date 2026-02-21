@@ -2,10 +2,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/windows-205-848724.png" width="120" />
 </p>
 
-<h1 align="center">WPInternals Archive</h1>
+<h1 align="center">WPinternals Archive</h1>
 
 <p align="center">
-  Metro UI–styled archive for preserved WPInternals releases
+  Metro UI–styled archive for preserved WPinternals releases
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ## 🔵 About This Project
 
-**WPInternals Archive** is a Windows Phone–styled static website designed to preserve and host multiple historical and preview versions of WPInternals.
+**WPnternals Archive** is a Windows Phone–styled static website designed to preserve and host multiple historical and preview versions of WPinternals.
 
-This repository hosts a static website for archiving multiple versions of WPInternals.
+This repository hosts a static website for archiving multiple versions of WPinternals.
 
 The goal of this project is to preserve older and preview releases in a clean, accessible, and platform-faithful format.
 
@@ -49,11 +49,11 @@ All binaries are manually hosted by the repository maintainer.
 
 ## Disclaimer
 
-WPInternals is originally developed by Rene Lergner.
+WPinternals is originally developed by Rene Lergner.
 
 This archive is not affiliated with the original developer.
 
-Use of WPInternals involves bootloader unlocking, firmware flashing, and partition modification.  
+Use of WPinternals involves bootloader unlocking, firmware flashing, and partition modification.  
 Improper use may permanently damage devices.
 
 Use at your own risk.
