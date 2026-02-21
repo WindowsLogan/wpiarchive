@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI:wght@300;400;600&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #111;
+    color: white;
+}
+
+header {
+    padding: 40px 60px;
+    background: #0078D7; /* Windows Phone Blue */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 300;
+}
+
+nav {
+    padding: 20px 60px;
+    background: #1b1b1b;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    font-weight: 300;
+}
+
+nav a:hover {
+    color: #00BCF2;
+}
+
+.container {
+    padding: 40px 60px;
+}
+
+.tiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.tile {
+    background: #0078D7;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+}
+
+.tile:hover {
+    background: #005a9e;
+    transform: scale(1.05);
+}
+
+.button {
+    display: inline-block;
+    background: #00BCF2;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.button:hover {
+    backgr
